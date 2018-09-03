@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no">
+	<meta name="description" content="Mi primer proyecto en Next U">
+	<meta name="keywords" content="Curriculum Vitae, Next u, desarrollo web, primer proyecto">
+	<title>Hoja de vida</title>
+	<style>
+		*{
+			margin: 0;
+			padding: 0;
+			font-family: Calibri;
+		}
+	</style>
+</head>
+<body>
+	<header>
+	<img src="img/logo.svg" alt="" width="200px" height="150px">
+	<nav>
+		<ul>
+			<li><a href="index.html">Inicio</a></li>
+			<li><a href="experiencia.html">Experiencia</a></li>
+			<li><a href="#educacion">Educación</a></li>
+			<li><a href="#datos">Datos Personales</a></li>
+			<li><a href="#contacto">Contácto</a></li>
+		</ul>
+	</nav>
+		<h1>Currículum Vitae</h1>		
+	</header>
+	<section id="datos">
+		<h1><em><u>Datos Personales</u></em>:</h1>
+		<h2><u>Nombre</u>: </h2> <h3>Lucas Emmanuel</h3>
+		<h2><u>Apellido</u>: </h2>	<h3>Beanatte</h3>
+		<h2><u>Fecha de Nacimiento</u>: </h2> <h3>14/10/1988</h3>
+		<h2><u>Provincia</u>: </h2> <h3>La Pampa</h3>
+		<h2><u>Ciudad</u>: </h2> <h3>Santa Rosa</h3>
+		<h2><u>Código Postal</u>: </h2> <h3>6300</h3>
+	</section>
+	<section id="educacion">
+		<h2><u>Educación</u></h2>
+		<table border="1px">
+			<thead>
+				<th>Año</th>
+				<th>Institución</th>
+				<th>Lugar</th>
+				<th>¿Culminó?</th>
+			</thead>
+			<tbody>
+				<tr>
+					<td>1994</td>
+					<td>Escuela N° 25 “Granaderos de San Martin”</td>
+					<td>Santa Rosa, La Pampa</td>
+					<td>2000</td>
+				</tr>
+				<tr>
+					<td>2001</td>
+					<td>Unidad Educativa N°9</td>
+					<td>Santa Rosa, La Pampa</td>
+					<td>2003</td>
+				</tr>
+				<tr>
+					<td>2004</td>
+					<td>Colegio “Provincia de La Pampa”</td>
+					<td>Santa Rosa, La Pampa</td>
+					<td>2007</td>
+				</tr>
+			</tbody>
+		</table>
+
+		<form>
+			<h2>Agregar estudios</h2>
+			<ul style="list-style: none;">
+				<li>
+					<label><strong>Año:</strong> </label><select name="slaño" id="slaño">
+						<option value="Seleccione año">Seleccione año</option>
+						<option value="2000">2000</option>
+						<option value="2001">2001</option>
+						<option value="2002">2002</option>
+						<option value="2003">2003</option>
+						<option value="2004">2004</option>
+						<option value="2005">2005</option>
+						<option value="2006">2006</option>
+						<option value="2007">2007</option>
+						<option value="2008">2008</option>
+						<option value="2009">2009</option>
+						<option value="2010">2010</option>
+						<option value="2011">2011</option>
+						<option value="2012">2012</option>
+						<option value="2013">2013</option>
+						<option value="2014">2014</option>
+						<option value="2015">2015</option>
+						<option value="2016">2016</option>
+						<option value="2017">2017</option>
+					</select>
+				</li>
+				<li>
+					<label><strong>Institución:</strong> </label> <input type="text" id="instituto" required>
+				</li>
+				<li>
+					<label><strong>Lugar:</strong> </label> <textarea rows="1" cols="20" required id="txtlugar"></textarea>
+				</li>
+				<li>
+					<input type="submit" value="Enviar" id="btnenviar">
+				</li>
+			</ul>
+		</form>
+
+	</section>
+	<footer id="contacto">
+		<h1><u>Contácto</u>:</h1>
+		<h2>Correo Electronico: </h2> <h3>lbeanatte@gmail.com</h3>
+		<h2>Celular: </h2> <h3>+5492954521359</h3>
+		<h2>Facebook: </h2> <h3>Lucas Beanatte</h3>
+		<h2>Instagram: </h2> <h3>lucasbeanatte</h3>
+
+	</footer>
+</body>
+</html>

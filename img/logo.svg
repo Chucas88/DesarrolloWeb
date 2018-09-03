@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m311.840442,239.343387c0,-7.553152 6.023979,-13.671113 13.461007,-13.671113c7.437028,0 13.461007,6.117983 13.461007,13.671113c0,7.553109 -6.023979,13.671113 -13.461007,13.671113c-7.437028,0 -13.461007,-6.118004 -13.461007,-13.671113zm-303.484965,-7.262634l14.298054,0l0,14.521376l-14.298054,0l0,-14.521376zm15.836017,7.266092l602.578456,0m1.540815,-7.262504l14.298054,0l0,14.521376l-14.298054,0l0,-14.521376zm-309.979145,329.334325l0,-14.52129l14.298203,0l0,14.52129l-14.298203,0zm7.154423,-16.083193l0,-611.983914m-7.150208,-1.56387l0,-14.52129l14.298331,0l0,14.52129l-14.298331,0z" fill="#000000" fill-opacity="0" id="svg_1" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="2" transform="rotate(45 325.482 239.342)"/>
+  <text fill="#000000" font-family="Serif" font-size="122" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="202.5" xml:space="preserve" y="267.5">L</text>
+  <text fill="#000000" font-family="Serif" font-size="122" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="465.5" xml:space="preserve" y="258.5">B</text>
+  <text fill="#000000" font-family="Serif" font-size="122" id="svg_5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="328.5" xml:space="preserve" y="393.5">E</text>
+  <path d="m325.133217,54.243933c-36.191843,0 -64.748196,36.997599 -64.748196,36.997599s28.556353,37.002395 64.748196,37.002395c27.678655,0 64.748196,-37.002395 64.748196,-37.002395s-37.069541,-36.997599 -64.748196,-36.997599zm0,60.052753c-12.705035,0 -23.055154,-10.345323 -23.055154,-23.055154s10.350119,-23.055154 23.055154,-23.055154s23.055154,10.350119 23.055154,23.055154s-10.350119,23.055154 -23.055154,23.055154zm0,-36.513186c-7.429256,0 -13.458032,6.02398 -13.458032,13.458032c0,7.434052 6.02398,13.458032 13.458032,13.458032c7.434052,0 13.458032,-6.02398 13.458032,-13.458032c0,-7.429256 -6.02398,-13.458032 -13.458032,-13.458032z" fill="#000000" fill-opacity="0" id="svg_6" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="2"/>
+ </g>
+</svg>
